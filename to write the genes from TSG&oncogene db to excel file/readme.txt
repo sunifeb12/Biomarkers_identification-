@@ -1,0 +1,1 @@
+The names in the .txt file that matches with the gene_id column in the "DEGs" tab of the excel file has to checked and the row containing that name has to be written to another file/tab (TSGs). 
